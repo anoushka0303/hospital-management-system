@@ -8,7 +8,6 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
   - [Usage](#usage)
-  - [Live Demo](#live-demo)
   - [Conception](#conception)
   - [Screenshots](#screenshots)
   - [Seed Database](#seed-database)
