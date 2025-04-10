@@ -47,7 +47,7 @@ Make sure you have the following prerequisites installed on your machine:
 1. Clone the repository to your local machine:
 
 ```bash
-   git clone https://github.com/hamzaezzine/Hospital-Management  
+   git clone https://github.com/anoushka0303/hospital-management-system  
 ```
 
 2. Create virtual environmenet  :  
