@@ -1,27 +1,3 @@
-# Hospital Management 
-
-<br/>
-<p align="center">
-  <a href="https://github.com/hamzaezzine/Hospital-Management">
-    <img src="static/img/logo.png" alt="Logo"  height="80">
-  </a>
-
-  <h3 align="center">Hospital Management</h3>
-
-  <p align="center">
-    Hospital Management Django Website
-    <br/>
-    <br/>
-    <a href="https://github.com/hamzaezzine/Hospital-Management">View Demo</a>
-    .
-    <a href="https://github.com/hamzaezzine/Hospital-Management/issues">Report Bug</a>
-    .
-    <a href="https://github.com/hamzaezzine/Hospital-Management/issues">Request Feature</a>
-  </p>
-</p>
-
-![Contributors](https://img.shields.io/github/contributors/hamzaezzine/Hospital-Management?color=dark-green) ![Forks](https://img.shields.io/github/forks/hamzaezzine/Hospital-Management?style=social) ![Stargazers](https://img.shields.io/github/stars/hamzaezzine/Hospital-Management?style=social) ![Issues](https://img.shields.io/github/issues/hamzaezzine/Hospital-Management) 
-
 ## Table Of Contents
 
 - [Hospital Management](#hospital-management)
